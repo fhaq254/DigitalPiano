@@ -1,6 +1,7 @@
-# Lab-6
-Digital Piano using a 4-bit DAC, written in C
-
-
-Lab manual:
-https://docs.google.com/document/d/18nwk_8EsmCZK1w5u5EcbuKxtmBu8BUznT2GJzdtK-CU/edit
+// Lab6.c
+// Runs on LM4F120 or TM4C123
+// Use SysTick interrupts to implement a 4-key digital piano
+// MOOC lab 13 or EE319K lab6 starter
+// Program written by: Fawadul Haq and Rafael Herrejon
+// Date Created: 3/6/17 
+// Last Modified: 3/6/17 
